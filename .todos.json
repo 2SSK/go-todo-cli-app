@@ -1,1 +1,1 @@
-[{"Task":"Sample todo","Done":false,"CreatedAt":"2024-06-25T22:58:35.410770241+05:30","CompletedAt":"0001-01-01T00:00:00Z"}]
+[{"Task":"publish todo-cli app on GitHub","Done":true,"CreatedAt":"2024-06-26T22:32:27.873498387+05:30","CompletedAt":"2024-06-26T22:35:12.246365037+05:30"},{"Task":"make a post on X about your todo-cli app","Done":false,"CreatedAt":"2024-06-26T22:32:53.94111265+05:30","CompletedAt":"0001-01-01T00:00:00Z"},{"Task":"solve 2 leetcode problems","Done":false,"CreatedAt":"2024-06-26T22:33:22.361796722+05:30","CompletedAt":"0001-01-01T00:00:00Z"}]
